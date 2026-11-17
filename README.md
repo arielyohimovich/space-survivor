@@ -2,7 +2,7 @@
 
 # 🚀 Space Survivor
 
-![Space Survivor](space.png)
+![Space Survivor](space%20survivor%20game/space.png)
 
 **How long can you survive?**
 
@@ -206,8 +206,7 @@ space-survivor/
 ---
 
 ## 📸 Screenshot
-
-![Gameplay: a boss fight](screenshot_boss.png)
+![Gameplay: a boss fight](space%20survivor%20game/screenshot_boss.png)
 
 ---
 
